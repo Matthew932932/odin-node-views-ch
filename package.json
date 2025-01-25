@@ -1,0 +1,24 @@
+{
+  "name": "odin-node-views-ch",
+  "version": "1.0.0",
+  "description": "Odin Node Views chapter",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Matthew932932/odin-node-views-ch.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Matthew932932/odin-node-views-ch/issues"
+  },
+  "homepage": "https://github.com/Matthew932932/odin-node-views-ch#readme",
+  "dependencies": {
+    "ejs": "^3.1.10",
+    "express": "^4.21.2"
+  }
+}
